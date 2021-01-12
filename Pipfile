@@ -5,8 +5,7 @@ name = "pypi"
 
 [packages]
 urllib3 = "*"
-seaborn = "*"
-lxml = "*"
+nba-api = "*"
 
 [dev-packages]
 
