@@ -1,13 +1,9 @@
 
 lxml==4.6.2
 matplotlib==3.3.3
-nba-api==1.1.9
+nba-api
 numpy==1.19.5
-pandas==1.2.0
-plotly==4.14.3
-plotly-express==0.4.1
+pandas
 requests==2.25.1
-scipy==1.6.0
-seaborn==0.11.1
-streamlit==0.74.1
-toml==0.10.2
+seaborn
+streamlit
