@@ -1,9 +1,9 @@
 
-lxml==4.6.2
-matplotlib==3.3.3
+lxml
+matplotlib
 nba-api
-numpy==1.19.5
+numpy
 pandas
-requests==2.25.1
+requests
 seaborn
-streamlit
+streamlit==0.74.1
