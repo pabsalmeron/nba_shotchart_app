@@ -1,8 +1,10 @@
-lxml
-matplotlib
 nba-api
-numpy
-pandas
 requests
-seaborn
 streamlit==0.74.1
+streamlit==0.61.0
+pandas==0.25.3
+lxml==4.5.1
+numpy==1.18.1
+seaborn==0.10.0
+matplotlib
+base58
